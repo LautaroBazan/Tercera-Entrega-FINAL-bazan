@@ -1,0 +1,27 @@
+IMAGEN PRINCIPAL 1----------------https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDIwOXx8Y2FzYXxlbnwwfHx8fDE2NTQ5OTIxMTI&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN PRINCIPAL 2----------------https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDI0fHxob3VzZXxlbnwwfHx8fDE2NTk5MjMxNDE&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN PRINCIPAL 3----------------https://images.unsplash.com/photo-1512917774080-9991f1c4c750?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDExfHxob3VzZXxlbnwwfHx8fDE2NTk5MjMxNDE&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+
+IMAGEN WHATSAPP(negro)-----------------https://img.icons8.com/androidL/2x/whatsapp.png
+IMAGEN TWITTER(negro)------------------https://img.icons8.com/androidL/2x/twitter--v2.png
+IMAGEN INSTAGRAM(negro)----------------https://img.icons8.com/androidL/2x/instagram-new.png
+
+IMAGEN WHATSAPP(blanco)-----------------https://img.icons8.com/FFFFFF/androidL/2x/whatsapp.png
+IMAGEN TWITTER(blanco)------------------https://img.icons8.com/FFFFFF/androidL/2x/twitter--v2.png
+IMAGEN INSTAGRAM(blanco)----------------https://img.icons8.com/FFFFFF/androidL/2x/instagram-new.png
+
+IMAGEN CASA DOLAR(blanco)--------------------https://img.icons8.com/78A55A/androidL/2x/bank-building.png
+IMAGEN DOLAR(blanco)--------------------https://img.icons8.com/78A55A/androidL/2x/check-dollar.png
+IMAGEN CUBO M2(blanco)------------------https://img.icons8.com/androidL/2x/tesseract.png
+IMAGEN BAÑERA(blanco)-------------------https://img.icons8.com/androidL/2x/shower-and-tub.png
+IMAGEN CAMAS(blanco)--------------------https://img.icons8.com/androidL/2x/occupied-bed.png
+
+IMAGEN CASA 1(blanco)--------------------https://images.unsplash.com/photo-1523217582562-09d0def993a6?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDV8fGhvdXNlfGVufDB8fHx8MTY1NTc5NDM5NQ&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN CASA 2(blanco)--------------------https://images.unsplash.com/photo-1564013799919-ab600027ffc6?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDl8fGhvdXNlfGVufDB8fHx8MTY1NTc5NDM5NQ&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN CASA 3(blanco)--------------------https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDIxfHxob3VzZXxlbnwwfHx8fDE2NTU3OTQzOTU&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN CASA 4(blanco)--------------------https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDIyfHxob3VzZXxlbnwwfHx8fDE2NTU3OTQzOTU&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+
+IMAGEN CASA 5(blanco)--------------------https://images.unsplash.com/photo-1560026301-88340cf16be7?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDMxfHxob3VzZXxlbnwwfHx8fDE2NTU4MzE3MTg&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN CASA 6(blanco)--------------------https://images.unsplash.com/photo-1613490493576-7fde63acd811?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDQzfHxob3VzZXxlbnwwfHx8fDE2NTU4MzE3MTg&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN CASA 7(blanco)--------------------https://images.unsplash.com/photo-1557434440-27ba0f1654e8?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDU0fHxob3VzZXxlbnwwfHx8fDE2NTU4MzE3MTg&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
+IMAGEN CASA 8(blanco)--------------------https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?crop=entropy&cs=tinysrgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDQ4fHxob3VzZXxlbnwwfHx8fDE2NTU4MzE3MTg&ixlib=rb-1.2.1&q=80&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450
